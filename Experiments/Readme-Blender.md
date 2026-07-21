@@ -1,6 +1,6 @@
 # Blender Projects
 
-## 🏙 SHAD 2026 Visualization
+## SHAD 2026 Visualization
 
 A 3D visualization created for the SHAD Canada program. Blends in SHAD elements with a Frutiger Aero and futurism design.
 
@@ -15,7 +15,7 @@ Exploring how digital environments can communicate ideas and concepts visually.
 
 ---
 
-##Pool Core — 3D Environment Study
+## Pool Core — 3D Environment Study
 
 A small Blender artwork exploring atmosphere, composition, and environmental storytelling.
 
